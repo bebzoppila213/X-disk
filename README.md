@@ -3,6 +3,8 @@
 ## Запуск проекта через докер
 1. Клонируйте проект **git clone https://github.com/bebzoppila213/X-disk.git**
 2. Пропишите комманду **docker-compose up**
+3. Перейдите на страницу **http://localhost:3005/**
+4. Данyые для тестового пользователя **password: awdwadWDAWD123$, username: nvreter2234**
 ## Запуск проекта не через докер
 1. Клонируйте проект **git clone https://github.com/bebzoppila213/X-disk.git**
 2. Перейдите в директорию back **cd ./back**
